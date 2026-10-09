@@ -8,7 +8,7 @@ HEADERS = {
     'Accept-Encoding': 'gzip, deflate, br, zstd',
     'Accept-Language': 'ru,en-US;q=0.9,en;q=0.8,ko;q=0.7',
     'priority': 'u=1, i',
-    'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMjkxNTZjZDJiOTYyYThmNzkwNWE0MGEzODI3ZThhZDQ4NGMwMzdlNDYwMDU3YmMwMDZjNTQxODUyYzVkYzFhMmJkYmI3ZDFmNDYwYzMwNTYiLCJpYXQiOjE3OTA5NjMwNzkuNzU2NzMyLCJuYmYiOjE3OTA5NjMwNzkuNzU2NzM0LCJleHAiOjE3OTM2NDE0NzkuNzUyNDE3LCJzdWIiOiIxMzI5MDc2Iiwic2NvcGVzIjpbXX0.1NlWoKtTlGeVky0Im-LMeCKaAa5oJL1qxfB5Z1WzZQoDdKiLiK5RpMeKVgu6dsPQ_ih88vn8zoAZ7IyqEYB6MaVOk3Edv9ONZiuAfWB2VMj2aMedTKJyl07rp8xlC7YV45x9d9Vdxai-W4HCeB2x0tN1sv4-JaIGgBQGeezSvmf-xP8ZNy1p3osIHiV8KcZhtuPoDJVmzvaR6yT2FCJliThWevXMLngT3CzW9RCPgUbIt9RNABYSIwRnZ1oy2LGl-cJV5K8DvjRkswUfvUdljc2DcmGwnicGf89FmmngBAZ7hlZ4xe6s-xnhJRXyRhpjCdGMbDP-SF-M-2h5QTrW6FoFlQBbbQsk2546MMCn2bqcvjM-8tdBYqF74Hc7BgseThNOPcJUVxWM-8xTREJS0-BMmnm-afEGLfkY_pOwAUwRHAatP49jNlrtDE3Xuq3ky155X-ZE0xNw0eoDqy3aIvcEos0CTqcKeJ0D6LP_jR4CCrkKU8hNnhHHZpwJUTN10YEaWfdAmdXAs-rm4PZI0AcfW-f2ncHEM8FvOEoRQg5MLrV0remHgkX23JtQQQQvvBPP5rJrdWrMISRrqyWm_z1J0kdgGfj3zWdyt0VzDRRgOFmAnQLzZsgvPX0r1EEbvl_tTwTS9hsUNSfleTB-qBfAp4WDIXICDicB6-pxRhc',
+    'Authorization': '',
     'Origin': 'https://mangalib.me',
     'Referer': 'https://mangalib.me/',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36',
